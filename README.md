@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming skills
 - 🌱 I’m currently learning JAVA, Data Structer and DataBases
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me by angeleliasanjo@gmail.com or facebook.com/Angelbanze
+- 📫 you can reach me by [e-mail me](angeleliasanjo@gmail.com),  [facebook me](facebook.com/Angelbanze) or [LinkedIn](https://www.linkedin.com/in/angel-elias-banze-8273a619a/)
 
 <!---
 aebanze/aebanze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
