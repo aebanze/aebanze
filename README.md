@@ -2,7 +2,7 @@
 
 My name is **Angel Banze** and I'm a Mozambican Software Engineer Student.
 
-Actually attending third year of the course.
+I am currently a finalist student in the course
 
 In my free time I like to learn data structures and algorithms and Java development.
 
