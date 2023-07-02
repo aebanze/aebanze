@@ -10,11 +10,12 @@ You can connect with me by [Facebook](https://www.facebook.com/Angelbanze) and [
 
 # My skills :sunglasses:
 
-- solid knowledge of data structure and algorithms;
-- **Java** and **C#** for desktop dev;
-- Web dev (**HTML**, **CSS**, **JavaScript** and **PHP**);
+- Solid knowledge of data structure and algorithms;
+- **Java** and **C#** for desktop development;
+- Web development (**HTML**, **CSS**, **JavaScript** and **PHP**);
+- Frameworks (**Laravel**, **Spring-boot**, **React** and **Angular**)
 - Software Version Control (**Git** and **GitHub**);
-- **SQL** and **MySql** Databases.
+- **SQL** and **NonSQL**Databases.
 
 # Goals :muscle:
 
